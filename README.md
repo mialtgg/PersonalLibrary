@@ -1,18 +1,13 @@
 # Content:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrap.
+Include json-server for database
+
 
 ## Available Scripts
 
 
 
-### `npm start`
 
 
-### `npm test`
-
-
-### `npm run build`
-
-
-# PersonalLibrary
+# PersonalLibrary Netlify Link
