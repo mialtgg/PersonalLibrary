@@ -1,0 +1,52 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "Olasılıksız",
+        "author": "Adam FAWER",
+        "categoryId": "1",
+        "isbn": "11111111111"
+      },
+      {
+        "id": 2,
+        "name": "Bir Ömür nasıl Yaşanır",
+        "author": "İlber Ortaylı",
+        "isbn": "11111111112",
+        "categoryId": "1"
+      },
+      {
+        "id": 3,
+        "name": "Denemeler",
+        "author": "Montaigne",
+        "isbn": "11111111113",
+        "categoryId": "3"
+      },
+      {
+        "id": 1662320160640,
+        "name": "Sineklerin Tanrısı",
+        "author": "William Golding",
+        "categoryId": "1",
+        "isbn": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Roman"
+      },
+      {
+        "id": 2,
+        "name": "Hikaye"
+      },
+      {
+        "id": 3,
+        "name": "Deneme"
+      },
+      {
+        "id": 1664654215262,
+        "name": "Şiir"
+      }
+
+    
+    ]
+  }
