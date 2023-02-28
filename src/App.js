@@ -1,13 +1,16 @@
-import Header from "./components/Header";
+import Home from "./components/Pages.js/Home";
 import React from "react";
-import ListBooks from "./components/ListBooks";
+import {BrowserRouter,Routes,Route,} from "react-router-dom";
+
 
 function App() {
   return (
-    <div className="App">
-     <Header/>
-     <ListBooks/>
-    </div>
+    <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Home/>}/> 
+    </Routes>
+  </BrowserRouter>,
+  document.getElementById("root")
   );
 }
 
