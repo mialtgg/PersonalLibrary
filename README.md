@@ -9,10 +9,10 @@ React Router dom entegrated.
 🎣 axios : used as an instance for typos (create baseURL, api, urls)for rest api actions 
 <br/>
 🗽 state management with react, react-redux <br/>
-🔄 generic reusable #components (CustomModal for error handling and getting validation from user in delete and edit functions )<br/>
-🖌 functions under utils file for #input validation and for a better user experience<br/>
+🔄 generic reusable components (CustomModal for error handling and getting validation from user in delete and edit functions )<br/>
+🖌 functions under utils file for input validation and for a better user experience<br/>
 jsx syntax<br/>
-hooks (#useEffect, #useState, #useNavigate, #useParams <br/>
+hooks (useEffect, useState, useNavigate, useParams <br/>
 json -server as back-end data storage<br/>
 UI : responsivewebdesign , interactive UIs with react, #bootstrap, animated icons added<br/>
 React-router-dom for navigation between pages.<br/>
